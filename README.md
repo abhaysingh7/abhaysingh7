@@ -1,49 +1,23 @@
-## Hi there, I'm Abhay Singh 👋
+## Hi, I'm Abhay Singh 👋
 
-<!--
-**abhaysingh7/abhaysingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
+Computer Science graduate working in **Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development. Building intelligent systems, data-driven applications, and scalable software while continuously expanding my knowledge through hands-on projects and practical implementation.
 
-🎓Computer Science Graduate exploring the intersection of **Artificial Intelligence, Machine Learning, and Software Engineering, with interests in intelligent systems, data science, and applied research**.
-
-🚀 **Currently Working On**
-
-* Multimodal AI Assistant (LLMs, Voice AI, Computer Vision, Memory Systems)
-* Machine Learning & Data Science Projects
-* Open-Source and Full-Stack Development Projects
-
-🌱 **Currently Learning**
-
-* Generative AI & Large Language Models (LLMs)
-* Advanced Machine Learning & Deep Learning
-* Cloud Computing & MLOps
-* Research Methodologies
-
-### 🛠️ Tech Stack
-
-**Languages:**
-Python • JavaScript • C++ • SQL
-
-**AI/ML & Data Science:**
-PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • Jupyter
-
-**Web Development:**
-React.js • Node.js • Express.js • MongoDB • HTML • CSS • REST APIs
-
-**Cloud & Tools:**
-Git • GitHub • Linux • AWS
-
-**Design & Productivity:**
-Figma • Canva
-
-📫 Explore my repositories to see what I'm building, learning, and contributing to.
+Completed the **IBM Data Science Professional Certificate** from **Coursera**, strengthening my understanding of data analysis, machine learning, data visualization, SQL, and applied data science workflows.
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Areas of Focus
 
-* LinkedIn: [https://www.linkedin.com/in/abhaysingh7/]
-* Portfolio: [Your Portfolio Website]
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Full-Stack Development
+- Software Engineering
+- Generative AI & Large Language Models (LLMs)
+- Research
 
+---
 
+## 📌 About
 
+This GitHub profile showcases my projects, experiments, and practical implementations across Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, and Software Engineering. I'm passionate about solving real-world problems through technology and continuously improving my skills by building impactful projects.
