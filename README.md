@@ -10,8 +10,7 @@ Computer Science graduate working in **Artificial Intelligence, Machine Learning
 - Artificial Intelligence
 - Machine Learning
 - Data Science
-- Full-Stack Development
-- Software Engineering
+- Artificial General Intelligence (AGI) 
 - Generative AI & Large Language Models (LLMs)
 - Research
 
@@ -19,5 +18,5 @@ Computer Science graduate working in **Artificial Intelligence, Machine Learning
 
 ## 📌 About
 
-This GitHub profile showcases my projects, experiments, and practical implementations across Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, and Software Engineering. 
-LinkedIn: @abhaysingh7
+- This GitHub profile showcases my projects, experiments, and practical implementations.
+- LinkedIn: @abhaysingh7
