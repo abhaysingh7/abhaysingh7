@@ -4,7 +4,6 @@ Computer Science graduate working in **Artificial Intelligence, Machine Learning
 
 
 
----
 
 ## 🚀 Areas of Interest
 
@@ -16,7 +15,7 @@ Computer Science graduate working in **Artificial Intelligence, Machine Learning
 - Generative AI & Large Language Models (LLMs)
 - Research
 
----
+
 
 ## 📌 About
 
