@@ -1,12 +1,12 @@
 ## Hi, I'm Abhay Singh 👋
 
-Computer Science graduate working in **Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development. Building intelligent systems, data-driven applications, and scalable software while continuously expanding my knowledge through hands-on projects and practical implementation.
+Computer Science graduate working in **Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development. Trying to build intelligent systems, data-driven applications, and scalable software while continuously expanding my knowledge through hands-on projects and practical implementation.
 
-Completed the **IBM Data Science Professional Certificate** from **Coursera**, strengthening my understanding of data analysis, machine learning, data visualization, SQL, and applied data science workflows.
+
 
 ---
 
-## 🚀 Areas of Focus
+## 🚀 Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -20,4 +20,5 @@ Completed the **IBM Data Science Professional Certificate** from **Coursera**, s
 
 ## 📌 About
 
-This GitHub profile showcases my projects, experiments, and practical implementations across Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, and Software Engineering. I'm passionate about solving real-world problems through technology and continuously improving my skills by building impactful projects.
+This GitHub profile showcases my projects, experiments, and practical implementations across Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, and Software Engineering. 
+LinkedIn: @abhaysingh7
