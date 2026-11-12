@@ -12,7 +12,7 @@ Computer Science graduate working in **Artificial Intelligence, Machine Learning
 - Data Science
 - Artificial General Intelligence (AGI) 
 - Generative AI & Large Language Models (LLMs)
-- Research
+- AI Research
 
 
 
